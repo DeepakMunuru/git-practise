@@ -2,3 +2,5 @@ this is file one
 add another file to the folder and commit it
 add a second file to the folder and commit it
 add a third file to the folder and commit it
+
+added a footer note
